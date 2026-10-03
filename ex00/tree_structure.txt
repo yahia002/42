@@ -1,0 +1,47 @@
+.:
+total 20
+drwxrwxr-x 5 test test 4096 Oct  3 05:37 .
+drwxrwxr-x 3 test test 4096 Oct  3 05:34 ..
+drwxrwxr-x 2 test test 4096 Oct  3 05:35 archives
+drwxrwxr-x 4 test test 4096 Oct  3 05:36 projects
+drwxrwxr-x 2 test test 4096 Oct  3 05:35 tools
+-rw-rw-r-- 1 test test    0 Oct  3 05:37 tree_structure.txt
+
+./archives:
+total 8
+drwxrwxr-x 2 test test 4096 Oct  3 05:35 .
+drwxrwxr-x 5 test test 4096 Oct  3 05:37 ..
+
+./projects:
+total 16
+drwxrwxr-x 4 test test 4096 Oct  3 05:36 .
+drwxrwxr-x 5 test test 4096 Oct  3 05:37 ..
+drwxrwxr-x 3 test test 4096 Oct  3 05:36 web
+drwxrwxr-x 3 test test 4096 Oct  3 05:36 wev
+
+./projects/web:
+total 12
+drwxrwxr-x 3 test test 4096 Oct  3 05:36 .
+drwxrwxr-x 4 test test 4096 Oct  3 05:36 ..
+drwxrwxr-x 2 test test 4096 Oct  3 05:36 backend
+
+./projects/web/backend:
+total 8
+drwxrwxr-x 2 test test 4096 Oct  3 05:36 .
+drwxrwxr-x 3 test test 4096 Oct  3 05:36 ..
+
+./projects/wev:
+total 12
+drwxrwxr-x 3 test test 4096 Oct  3 05:36 .
+drwxrwxr-x 4 test test 4096 Oct  3 05:36 ..
+drwxrwxr-x 2 test test 4096 Oct  3 05:36 frontend
+
+./projects/wev/frontend:
+total 8
+drwxrwxr-x 2 test test 4096 Oct  3 05:36 .
+drwxrwxr-x 3 test test 4096 Oct  3 05:36 ..
+
+./tools:
+total 8
+drwxrwxr-x 2 test test 4096 Oct  3 05:35 .
+drwxrwxr-x 5 test test 4096 Oct  3 05:37 ..
